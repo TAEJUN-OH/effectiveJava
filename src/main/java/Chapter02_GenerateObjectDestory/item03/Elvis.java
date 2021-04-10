@@ -1,4 +1,4 @@
-package Chapter02_GenerateObjectDestory.item3;
+package Chapter02_GenerateObjectDestory.item03;
 
 /**
  * 싱글턴(singleton) 이란 ?

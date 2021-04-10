@@ -1,4 +1,4 @@
-package Chapter02_GenerateObjectDestory.item3;
+package Chapter02_GenerateObjectDestory.item03;
 
 /**
  * 열거 타입 방식의 싱글턴 - 바람직한 방법
